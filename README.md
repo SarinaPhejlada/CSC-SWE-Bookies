@@ -1,2 +1,10 @@
 # CSC-SWE-Bookies
-Repository to store all our files for our Software Engineering Project that we will be working on.
+
+Projet title: Bookies
+
+Team Members:
+  1. Sarina Phejlada
+  2. Tien Tran
+  3. Nathan Witherell
+  4. Wilgens Pierre
+  5. Kevin Nguyen
