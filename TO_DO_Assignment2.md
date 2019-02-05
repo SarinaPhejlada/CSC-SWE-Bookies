@@ -1,14 +1,9 @@
-Task 1:
--[ ] Members:
-Task 2:
--[ ]
-Task 3:
--[ ]
-Task 4:
--[ ]
-Task 5:
--[ ]
-Task 6:
--[ ]
-Task 7:
--[ ]
+- [ ] Mercury
+- [x] Venus
+- [x] Earth (Orbit/Moon)
+- [x] Mars
+- [ ] Jupiter
+- [ ] Saturn
+- [ ] Uranus
+- [ ] Neptune
+- [ ] Comet Haley
