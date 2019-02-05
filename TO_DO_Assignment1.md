@@ -1,6 +1,6 @@
 ## To do list for assignment 1
 
-- [ ] Task 1
+- [X] Create Slack, Teamwork Basics (with Sarina)
 - [ ] Task 2
 - [ ] Task 3
 - [ ] Task 4
