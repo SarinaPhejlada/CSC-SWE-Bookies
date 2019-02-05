@@ -1,6 +1,6 @@
 ## To do list for assignment 1
 
-- [X] Create Slack, Teamwork Basics. (with Sarina)
+- [X] Create Slack, Teamwork Basics. Tien Tran (with Sarina)
 - [ ] Task 2
 - [ ] Task 3
 - [ ] Task 4
