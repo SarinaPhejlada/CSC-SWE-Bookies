@@ -1,5 +1,5 @@
 Task 1:
-[ ]
+[ ] Members:
 Task 2:
 [ ]
 Task 3:
